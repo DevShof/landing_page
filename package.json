@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://devshof.github.io/",
+  "homepage": "https://devshof.github.io/landing_page",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d module1"
   },
   "keywords": [],
   "author": "",
